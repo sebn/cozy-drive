@@ -1148,10 +1148,10 @@
   dependencies:
     unicode-trie "^0.3.0"
 
-"@sentry/cli@1.44.2":
-  version "1.44.2"
-  resolved "https://registry.yarnpkg.com/@sentry/cli/-/cli-1.44.2.tgz#0e80e9349c45d3e0dfc2c09cd1191c80cefe49b0"
-  integrity sha512-K/NxO9HCZLNS3ajqY3/knwCc9wQtTmCF37drfvkP7OtDcqYGiFGK8umAtx1n0kSPU2JxB88Vvaz78CcZqK2hxA==
+"@sentry/cli@1.47.0":
+  version "1.47.0"
+  resolved "https://registry.yarnpkg.com/@sentry/cli/-/cli-1.47.0.tgz#7e29b06400511f2948429f7da89f7744216c5ecb"
+  integrity sha512-QTl2mqHIW5Q9JWofFkNG0aPCo4qnyZdaMatVYxrDAKiqapX6Q1Y84S9qofjBuo87ELjd9hD7UeDcbLEqqGuIKA==
   dependencies:
     fs-copy-file-sync "^1.1.1"
     https-proxy-agent "^2.2.1"
@@ -4619,7 +4619,6 @@ cozy-scripts@1.13.2:
     webpack-bundle-analyzer "3.0.3"
     webpack-dev-server "3.1.10"
     webpack-merge "4.2.1"
-
 
 cozy-stack-client@^6.53.0:
   version "6.53.0"
